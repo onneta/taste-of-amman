@@ -6,11 +6,11 @@ export default function Home() {
       <div className="max-w-2xl text-center">
         <h2 className="text-xl font-semibold mb-4">Planned Features</h2>
         <ul className="space-y-2 text-left">
-          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Online ordering system with payment processing and delivery management</li>
-          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Customer loyalty program with segmented email marketing campaigns</li>
-          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Real-time operational dashboard with revenue and food cost tracking</li>
-          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Google Business Profile optimization with automated review generation</li>
-          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Staff scheduling, CRM, and inventory management system</li>
+          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Online ordering system with payment processing and delivery integration</li>
+          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Customer loyalty program with segmented email marketing</li>
+          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Real-time revenue and food cost tracking dashboard</li>
+          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Google Business Profile optimization and review generation</li>
+          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Instagram Reels content calendar and social media engine</li>
         </ul>
       </div>
       <footer className="mt-16 text-sm text-gray-400">
