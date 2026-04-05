@@ -8,9 +8,9 @@ export default function Home() {
         <ul className="space-y-2 text-left">
           <li className="flex items-center gap-2"><span className="text-green-500">●</span> Online ordering system with payment processing and delivery integration</li>
           <li className="flex items-center gap-2"><span className="text-green-500">●</span> Customer loyalty program with segmented email marketing</li>
-          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Real-time revenue and food cost audit dashboard</li>
+          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Real-time revenue and food cost tracking dashboard</li>
           <li className="flex items-center gap-2"><span className="text-green-500">●</span> Google Business Profile optimization and review generation</li>
-          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Staff scheduling and customer service management tools</li>
+          <li className="flex items-center gap-2"><span className="text-green-500">●</span> Instagram Reels content calendar and social media engine</li>
         </ul>
       </div>
       <footer className="mt-16 text-sm text-gray-400">
